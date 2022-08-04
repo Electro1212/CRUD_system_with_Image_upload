@@ -1,0 +1,19 @@
+.password{
+    width: 100%;
+    height: 37.5px;
+    border-radius:5px;
+    border:transparent;
+    border:0.5px solid rgb(231, 227, 227) ;
+}
+.password::after{
+    border:transparent;
+    border:0.5px solid rgb(231, 227, 227) ;
+}
+.password:hover{
+    box-shadow:0 0 0 4px rgb(165, 225, 225);
+    border: transparent;
+    border:0.5px solid rgb(231, 227, 227) ;
+}
+.eye{
+    margin-left:-40px;
+}
